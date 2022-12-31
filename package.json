@@ -1,0 +1,25 @@
+{
+  "name": "generate-sk-pk-address",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_generateSK.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-zhong/Generate-SK-PK-Address.git"
+  },
+  "author": "WZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-zhong/Generate-SK-PK-Address/issues"
+  },
+  "homepage": "https://github.com/w-zhong/Generate-SK-PK-Address#readme",
+  "dependencies": {
+    "eip55": "^2.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "keccak256": "^1.0.6",
+    "secp256k1": "^5.0.0"
+  }
+}
