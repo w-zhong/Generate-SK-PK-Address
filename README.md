@@ -8,13 +8,13 @@
 - 外部地址（Externally Owned Account，EOA）：由私钥生成并控制
 - 合约地址（Smart Contract Account），由EOA部署生成，由内部代码控制
 
-![Untitled](https://user-images.githubusercontent.com/99269419/210132816-2fbef840-813a-4fbd-938a-7ffa60298b10.png)
+![以太坊地址分类](https://user-images.githubusercontent.com/99269419/210132816-2fbef840-813a-4fbd-938a-7ffa60298b10.png)
 
 绝大多数web3用户都是通过钱包（例如MetaMask）的方式创建公私钥对和地址，今天我们会采取纯代码的方式带大家把全流程走通。
 
 值得一提的是，当环境搭建好之后，整个过程完全不需要接触互联网，因此这种方式可以更加安全的保护你的私钥。
 
-![由私钥生成外部地址的过程](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03a30e80-b415-48f1-9e66-47a96d2f5645/Untitled.png)
+![由私钥生成外部地址的过程]![image](https://user-images.githubusercontent.com/99269419/210132844-96327737-7534-4222-a4fa-04e7fd76188b.png)
 
 由私钥生成外部地址的过程
 
